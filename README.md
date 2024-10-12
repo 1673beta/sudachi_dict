@@ -3,10 +3,12 @@
 ## これ何
 c.koliosky.comで使うElasticsearch用のカスタム辞書の定義です。
 
+## ビルド済みバイナリ
+[ここから](https://hollo-esurio1673.s3.pl-waw.scw.cloud/dict/custom.dic)ダウンロード
+
 ## ビルドする
 ### 必要なもの
 - [ ] Sudachi.rsがインストールされていること
-- [ ] matrix.defをダウンロードしていること
   
 ### セットアップ
 ```bash
