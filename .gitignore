@@ -1,0 +1,4 @@
+resources/system.dic
+resources/system_*.dic
+resources/*.csv
+resources/matrix.def
